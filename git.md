@@ -302,3 +302,8 @@ $  git config --global --replace-all user.name "email"
 $ git config --list 
 ```
 
+
+
+# 文件夹中如果存在文件夹，要一个一个添加
+
+![当git仓库里有文件夹](E:\H5\笔记\img\当git仓库里有文件夹.bmp)

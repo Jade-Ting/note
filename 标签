@@ -1,0 +1,52 @@
+1、超文本标记语言   HTML(HyperText Markup Language) 
+2、可扩展文本标记语言    XHTML
+3、万维网联盟    W3C
+
+  
+标签
+标题标签   h1-h6
+段落标签   p
+加粗标签   b、strong
+倾斜标签   i、em
+换行标签   br
+水平线     hr
+无序列表   ul（unordered list）
+有序标签   ol（ordered list）
+列表项     li（list item）
+自定义列表   dl（definition list）
+自定义列表项 dt（definition term）
+自定义列表描述  dd
+图片标签   img
+路径       src       -----img的属性
+图片未加载出来时，显示的文字  alt
+鼠标悬停时，显示的文字    title
+锚链接     a
+跳转的路径 href      -----a的属性
+页面打开方式   target  
+新窗口打开链接 _blank   -----target属性值
+当前窗口打开链接  _self
+表格       table  
+表格的行   tr
+单元格     td
+表格宽度   width
+表格高度   height
+表格边框   border
+单元格与单元格之间的间距  cellspacing
+单元格内容与边框之间的距离  cellpadding
+合并行     rowspan    -----td的属性
+合并行     colspan
+表单框     form
+表单名字   name  -----form的属性
+表单提交的方式   method
+输入框     input
+输入框类型 type    -----input的属性
+文本框，value是默认值    <input type="text" value="">
+密码框   <input type="password">
+提交按钮  <input type="submit">
+普通按钮  <input type="button">
+重置按钮  <input type="reset">
+单选框，同一组单选框起的名字要一致  <input type="radio" name=""checked>
+多选框，同一组多选框起的名字要一致，checked属性代表默认选中  <input type="checkbox"name=""checked>
+下拉列表  select
+下拉列表选项    option
+代表某个选项默认被选中   selected  ------option
