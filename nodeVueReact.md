@@ -6,6 +6,8 @@
 
 ## node (introduce)
 
+> [安装教程]（http://www.runoob.com/nodejs/nodejs-install-setup.html）
+
 - Node.js是一个基于`Chrome V8 `引擎的JavaScript运行时
 - node相当于浏览器的控制台（`Chrome V8 `引擎）
 
