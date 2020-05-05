@@ -33,7 +33,7 @@
 
 - js, babel在线转化代码 [babeljs](https://babeljs.io/)
 
-**👩‍🎨样式|图片等**
+**🎨样式|图片等**
 
 - 动画, 可以查看动画效果并直接复制使用 [animista](https://animista.net/)
 
@@ -41,7 +41,7 @@
 
 - 代码图, 生成好看的代码图片 [carbon](https://carbon.now.sh/)
 
-**软件**
+**☕软件**
 
 - 转化host, 修改host的工具 [SwitchHosts](https://oldj.github.io/SwitchHosts/)
 
