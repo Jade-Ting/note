@@ -28,7 +28,7 @@ git commit -m ':tado: init'
 上面的 :tado: 就是某个小表情
 ```
 
-1. 可以直接在emoji的网站搜索后使用，如 [emoji](http://emojihomepage.com/)
+1. 可以直接在emoji的网站搜索后使用，如 [emoji](https://emoji.muan.co/)
 
 2. 可以安装 [emoji插件](https://hooj0.github.io/git-emoji-guide/)
     ```
