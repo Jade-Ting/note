@@ -56,3 +56,15 @@ git stash
 ```
 git checkout xxx
 ```
+
+- 查看分支
+
+```
+本地分支
+
+git branch
+
+远程分支
+
+git branch -a
+```
