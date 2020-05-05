@@ -7,13 +7,13 @@
 * [ ] 单选框
 - [X] 单选框选中
 
+* [X] git
 * [ ] react
 * [ ] Vue
 * [ ] js
 * [ ] es6
 * [ ] scss
 * [ ] less
-* [ ] git
 * [ ] ts
 
 
