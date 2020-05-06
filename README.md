@@ -41,6 +41,8 @@
 
 - 代码图, 生成好看的代码图片 [carbon](https://carbon.now.sh/)
 
+- 公众号/知乎/掘金排版 [mdnice](https://mdnice.com/)
+
 **☕软件**
 
 - 转化host, 修改host的工具 [SwitchHosts](https://oldj.github.io/SwitchHosts/)
