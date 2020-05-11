@@ -50,4 +50,40 @@
 
 - 服务器代理, 实现内网穿透, 可以将本地连接代理成服务器链接 [ngrok](https://ngrok.com/)
 
+**⛅vscode插件**
+
+- Chinese Language / 中文(简体) 🔸 设置为中文模式
+
+- Markdown TOC 🔸 vscode自带markdown， 该插件用于自动生成目录。（补充，markdown预览为 ctrl+shift+p选择打开侧边预览）
+
+- vscode-icons 🔸 vscode侧边栏文件夹/文件的icon
+
+- Todo Tree 🔸 文件中使用Todo的时候，会生成一个todo列表
+
+- vscode-fileheader 🔸 ctrl+alt+i 生成文件头,如下所示
+    ```js
+    /*
+    * @Author: @ganyuting.4366.com 
+    * @Date: 2020-05-11 19:52:33 
+ * @Last Modified by: @ganyuting.4366.com
+ * @Last Modified time: 2020-05-11 20:08:49
+    */
+    ```
+
+- GitLens 🔸 显示代码的git信息，如 `xxx xxday ago ,完成第一次commit`
+
+- javascript console utils 🔸 快速生成console.log , 可在debug时使用
+
+- clear-console 🔸 清除当前页所有console.log
+
+- Bracket Pair Colorizer 2 🔸 给代码中匹配的方括号设置不同的颜色
+
+- Better Align 🔸 对齐，比如可以用于对齐state中赋初始值对齐等号。
+
+- vscode主题
+    - One Monokai Theme
+    - Snazzy Plus
+    - Panda Theme
+    - background-cover 🔸 背景图, 可以设置透明背景图
+
 ~待补充
