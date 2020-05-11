@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>两栏布局</title>
+        <!-- 父元素设置 display: flex; justify-content: space-between -->
+        <!-- 子元素一边固定宽度，一边设置 flex: 1 -->
+        <style>
+            * {
+                box-sizing: content-box;
+                margin: 0;
+            }
+
+            html,
+            body {
+                width: 100%;
+                height: 100%;
+            }
+
+            .container {
+                width: 100%;
+                height: 100%;
+
+                display: flex;
+                justify-content: space-between;
+            }
+
+            .left {
+                width: 20%;
+                background: pink;
+            }
+
+            .right {
+                flex: 1;
+                background: plum;
+            }
+        </style>
+    </head>
+    <body>
+        <p>两栏布局</p>
+        <p>父元素设置 display: flex; justify-content: space-between</p>
+        <p>子元素一边固定宽度，一边设置 flex: 1</p>
+        <div class="container">
+            <div class="left"></div>
+            <div class="right"></div>
+        </div>
+    </body>
+</html>
