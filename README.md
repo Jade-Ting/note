@@ -62,12 +62,12 @@
 
 - vscode-fileheader 🔸 ctrl+alt+i 生成文件头,如下所示
     ```js
-    /*
-    * @Author: @ganyuting.4366.com 
-    * @Date: 2020-05-11 19:52:33 
- * @Last Modified by: @ganyuting.4366.com
- * @Last Modified time: 2020-05-11 20:08:49
-    */
+        /*
+         * @Author: @ganyuting.4366.com 
+         * @Date: 2020-05-11 19:52:33 
+         * @Last Modified by: @ganyuting.4366.com
+         * @Last Modified time: 2020-05-11 20:12:04
+         */
     ```
 
 - GitLens 🔸 显示代码的git信息，如 `xxx xxday ago ,完成第一次commit`
