@@ -4,8 +4,9 @@
 
 ### 目标内容👇
 
-* [X] git
-* [X] react
+* [ ] git
+* [ ] react
+* [ ] flex
 * [ ] Vue
 * [ ] js
 * [ ] es6
