@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>流式布局</title>
+
+        <style>
+            /* 流式布局 */
+            .fluid {
+                width: 100%;
+                display: flex;
+                /* justify-content: flex-start;   
+                align-items: flex-start;   默认值 - 可不设置*/
+                align-content: flex-start;
+                flex-wrap: wrap;
+            }
+
+            .fluid div {
+                box-sizing: border-box;
+                margin: 1px;
+                flex: 0 0 32%;
+                height: 100px;
+                background: #667788;
+            }
+        </style>
+    </head>
+    <body>
+        <h3>
+            父元素<br>
+            {<br />
+            width: 100%;<br />
+            display: flex;<br />
+            /* justify-content: flex-start; <br />
+            align-items: flex-start; 默认值 - 可不设置*/<br />
+            align-content: flex-start;<br />
+            flex-wrap: wrap;<br />
+
+            }
+        </h3>
+        <div class="right-main fluid">
+            <div>流式布局</div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+        <h3>子元素设置: flex: 0 0 32%;</h3>
+    </body>
+</html>
