@@ -26,3 +26,11 @@ git reset --soft <版本号> // 使用 --soft 时会回退到之前的版本，�
 ```
 git push origin <分支名> --force
 ```
+
+### 取消回滚
+
+当不小心回退到了其他版本（并且比希望回退到的版本早），此时，查看 `git log`，就找不到想回退的版本号。
+
+可以使用 `git reflog(包括撤销的commit记录都在）`
+
+查看到所有的版本号后，再使用 `git reset --hard xxx版本号` 即可。
