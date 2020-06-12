@@ -117,7 +117,7 @@ git commit -m ''
 git subtree push --prefix=build origin gh-pages
 ```
 
-![image.png](https://i.loli.net/2020/06/12/9AXphmgsadWO8uD.png)
+![image.png](https://i.loli.net/2020/06/12/37SgNQXM1eTd6rB.png)
 
 
 #### 完美~
